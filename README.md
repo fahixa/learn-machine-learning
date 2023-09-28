@@ -1,4 +1,3 @@
-# learn-machine-learning
-Nama : Fakhrity Hikmawan
-NIM : 1103204074
-Kelas : TK-44-04
+Nama : Fakhrity Hikmawan <br>
+NIM : 1103204074 <br>
+Kelas : TK-44-G4
